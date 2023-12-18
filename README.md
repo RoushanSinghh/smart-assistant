@@ -15,7 +15,7 @@ npm run dev
 
 Open your browser and load the appropriate development build. For example, if you are developing for the chrome browser, using manifest v3, use: `build/chrome-mv3-dev`.
 
-# SmartAssistant Chrome Extension
+# Smart Assistant Chrome Extension
 
 ## Overview
 
@@ -41,7 +41,10 @@ This Chrome extension allows users to interact with AI directly on any webpage.
 
 ## Demonstration
 
-Check out the [demonstration video](./demo-video.mp4) for a quick overview.
+Check out the demonstration video for a quick overview.
+
+https://github.com/RoushanSinghh/smart-assistant/assets/110733359/30ab42ce-12ad-4222-8f24-f6b41547f933
+
 
 ## Repository
-- Backend repository: [Link to Backend Repo](_backend_repo_link)
+- Backend repository: [Link to Backend Repo](https://github.com/RoushanSinghh/smart-assistant-backend)
